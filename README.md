@@ -9,24 +9,24 @@
   
 </h4>
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vitorsilvaocosta/modulo1.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vitorsilvaocosta/modulo1">
   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vitorsilvaocosta/modulo1.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vitorsilvaocosta/modulo1">
   
   <a href="https://www.codacy.com/app/vitorsilvaocosta/modulo1k?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ahaavila/instagram-fullStack&amp;utm_campaign=Badge_Grade">
     <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/4f87fc059ec846118f2ef2950200b13a.svg">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/vitorsilvaocosta/modulo1.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/vitorsilvaocosta/modulo1">
   <a href="https://github.com/vitorsilvaocosta/modulo1/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vitorsilvaocosta/modulo1.svg">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vitorsilvaocosta/modulo1">
   </a>
   
   <a href="https://github.com/vitorsilvaocosta/modulo1/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/vitorsilvaocosta/modulo1.svg">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/vitorsilvaocosta/modulo1">
   </a>
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/vitorsilvaocosta/modulo1.svg"> 
+  <img alt="GitHub" src="https://img.shields.io/github/license/vitorsilvaocosta/modulo1"> 
   
 </p>
 
