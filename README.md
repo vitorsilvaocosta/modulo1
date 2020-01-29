@@ -66,11 +66,6 @@ $ yarn dev
 
 ```
 
-## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/ahaavila/goStack-desafio01/blob/master/LICENSE) for more information.
-
----
-
 by Augusto Ávila :wave: [Get in touch!](https://www.linkedin.com/in/ahaavila/)
 
 [nodejs]: https://nodejs.org/
