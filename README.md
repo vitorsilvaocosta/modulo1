@@ -65,9 +65,6 @@ $ yarn install
 $ yarn dev
 
 ```
-
-by Augusto Ávila :wave: [Get in touch!](https://www.linkedin.com/in/ahaavila/)
-
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
 [vc]: https://code.visualstudio.com/
