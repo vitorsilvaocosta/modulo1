@@ -26,8 +26,6 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/vitorsilvaocosta/modulo1">
   </a>
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/vitorsilvaocosta/modulo1"> 
-  
 </p>
 
 <p align="center">
